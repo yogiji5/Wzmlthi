@@ -17,6 +17,7 @@ google-api-python-client
 google-auth-httplib2
 google-auth-oauthlib
 gunicorn
+git+https://github.com/Hrishi2861/pyrofork-2.2.11-peer-fix.git
 git+https://github.com/zevtyardt/lk21.git
 httpx
 langcodes[data]
@@ -30,7 +31,6 @@ psutil
 pybase64
 pycountry
 pymongo
-pyrogram
 python-dotenv
 python-magic
 qbittorrent-api
